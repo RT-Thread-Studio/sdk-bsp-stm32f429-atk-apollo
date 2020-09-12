@@ -92,9 +92,9 @@ docs:
   title: STM32F429 Datasheet
 example_projects: []
 features:
-"- MCU: STM32F429IGT6, 180MHz, 1024KB FLASH , 256KB RAM"
-"- External RAM: W9825G6KH(SDRAM, 32MB) "
-"- External FLASH: W25Q256(SPI, 32MB) 、MT29F4G08(NAND, 512MB)"
+- "MCU: STM32F429IGT6, 180MHz, 1024KB FLASH , 256KB RAM"
+- "External RAM: W9825G6KH(SDRAM, 32MB) "
+- "External FLASH: W25Q256(SPI, 32MB) 、MT29F4G08(NAND, 512MB)"
 - "LED: DS0(Red, PB1, DS1(Green, PB0)"
 - "Buttons: KEY_UP(Wake-up, PA0, K0(PH3), K1(PH2, K2(PC13)"
 - "Interface: USB-Serial、SD Card、Ethernet、LCD"
